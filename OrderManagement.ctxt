@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OrderManagement
+comment1.params=filename
+comment1.target=void\ loadOrdersFromFile(java.lang.String)
+comment2.params=order
+comment2.target=void\ addOrder(Order)
+comment3.params=orderId\ newOrder
+comment3.target=void\ modifyOrder(int,\ Order)
+comment4.params=orderId
+comment4.target=void\ removeOrder(int)
+comment5.params=
+comment5.target=void\ displayAllOrders()
+comment6.params=customerName
+comment6.target=void\ displayOrdersByCustomer(java.lang.String)
+comment7.params=productName
+comment7.target=void\ displayOrdersByProduct(java.lang.String)
+comment8.params=status
+comment8.target=void\ displayOrdersByStatus(java.lang.String)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
